@@ -1,12 +1,10 @@
-import './App.css';
+import Navbar from "./Navbar";
+
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p className="App-link">          Welcome to React Tutorials!
-        </p>
-      </header>
-    </div>
+   <>
+    <Navbar/>
+   </>
   );
 }
 
