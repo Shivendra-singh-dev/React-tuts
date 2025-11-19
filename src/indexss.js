@@ -1,111 +1,14 @@
 import React from "react"
 import ReactDOM from "react-dom/client"
-import Parent from "./FunctionalComponent/HooksExample/ContextAPIExample/Parent"
+import SampleF from "./FunctionalComponent/InputExample/SampleF"
+// import Sample from "./ClassComponent/InputExample/Sample"
 var root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(
     <>
-        <Parent/>
+        {/* <Sample /> */}
+        <SampleF/>
     </>
 )
-
-
-
-
-// import React from "react"
-// import ReactDOM from "react-dom/client"
-// import Sample from "./FunctionalComponent/HooksExample/UseRefExample/Sample"
-// var root = ReactDOM.createRoot(document.getElementById("root"))
-// root.render(
-//     <>
-//         <Sample/>
-//     </>
-// )
-
-
-
-
-// import React from "react"
-// import ReactDOM from "react-dom/client"
-// import Parent from "./FunctionalComponent/HooksExample/UseCallbackExample/Parent"
-// var root = ReactDOM.createRoot(document.getElementById("root"))
-// root.render(
-//     <>
-//         <Parent/>
-//     </>
-// )
-
-
-// import React from "react"
-// import ReactDOM from "react-dom/client"
-// import Parent from "./FunctionalComponent/HooksExample/UseMemoExample/Parent"
-// var root = ReactDOM.createRoot(document.getElementById("root"))
-// root.render(
-//     <>
-//         <Parent/>
-//     </>
-// )
-
-
-// import React from "react"
-// import ReactDOM from "react-dom/client"
-// import Parent from "./FunctionalComponent/HooksExample/UseEffectExample/Parent"
-// // import Parent from "./ClassComponent/PureComponentExample/Parent"
-// var root = ReactDOM.createRoot(document.getElementById("root"))
-// root.render(
-//     <>
-//         <Parent/>
-//     </>
-// )
-
-
-
-// import React from "react"
-// import ReactDOM from "react-dom/client"
-// import MaterialUIExample from "./FunctionalComponent/MaterialUIExample"
-// var root = ReactDOM.createRoot(document.getElementById("root"))
-// root.render(
-//     <>
-//         <MaterialUIExample />
-//     </>
-// )
-
-
-// import React from "react"
-// import ReactDOM from "react-dom/client"
-// import BootstrapExample from "./FunctionalComponent/BootstrapExample"
-// var root = ReactDOM.createRoot(document.getElementById("root"))
-// root.render(
-//     <>
-//        <BootstrapExample/>
-//     </>
-// )
-
-
-
-// import React from "react"
-// import ReactDOM from "react-dom/client"
-// import App from "./FunctionalComponent/RoutingExample/App"
-// var root = ReactDOM.createRoot(document.getElementById("root"))
-// root.render(
-//     <>
-//        <App/>
-//     </>
-// )
-
-
-
-
-// import React from "react"
-// import ReactDOM from "react-dom/client"
-// import SampleF from "./FunctionalComponent/InputExample/SampleF"
-// // import Sample from "./ClassComponent/InputExample/Sample"
-// var root = ReactDOM.createRoot(document.getElementById("root"))
-// root.render(
-//     <>
-//         {/* <Sample /> */}
-//         <SampleF/>
-//     </>
-// )
 
 
 
